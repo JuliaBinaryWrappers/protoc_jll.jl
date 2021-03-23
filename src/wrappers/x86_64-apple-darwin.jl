@@ -2,13 +2,13 @@
 export libprotoc, protoc
 
 JLLWrappers.@generate_wrapper_header("protoc")
-JLLWrappers.@declare_library_product(libprotoc, "@rpath/libprotoc.25.dylib")
+JLLWrappers.@declare_library_product(libprotoc, "@rpath/libprotoc.26.dylib")
 JLLWrappers.@declare_executable_product(protoc)
 function __init__()
     JLLWrappers.@generate_init_header()
     JLLWrappers.@init_library_product(
         libprotoc,
-        "lib/libprotoc.25.dylib",
+        "lib/libprotoc.26.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
