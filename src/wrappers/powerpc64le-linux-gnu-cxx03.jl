@@ -2,7 +2,7 @@
 export libprotoc, protoc
 
 JLLWrappers.@generate_wrapper_header("protoc")
-JLLWrappers.@declare_library_product(libprotoc, "libprotoc.so.27")
+JLLWrappers.@declare_library_product(libprotoc, "libprotoc.so.30")
 JLLWrappers.@declare_executable_product(protoc)
 function __init__()
     JLLWrappers.@generate_init_header()
