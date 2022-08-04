@@ -1,6 +1,6 @@
 name = "protoc_jll"
 uuid = "c7845625-083e-5bbe-8504-b32d602b7110"
-version = "3.13.0+0"
+version = "3.21.4+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
