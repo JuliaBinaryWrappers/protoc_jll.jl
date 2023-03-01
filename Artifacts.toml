@@ -5,7 +5,7 @@ os = "macos"
 
     [[protoc.download]]
     sha256 = "967103f8ed5f73cdd83bc516add059dc09839db9d3d58f14f1ef45031eb48058"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.aarch64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.aarch64-apple-darwin.tar.gz"
 [[protoc]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -15,7 +15,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "10123dca50913fbde9b7a43232c710ac63e94b8cec1b4650059e72e23c7eae2f"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.aarch64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.aarch64-linux-gnu-cxx03.tar.gz"
 [[protoc]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -25,7 +25,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "964ce801a6cc5e54cc5275f278015b9ea802a062640760fd496233739beb7f2f"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.aarch64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.aarch64-linux-gnu-cxx11.tar.gz"
 [[protoc]]
 arch = "aarch64"
 cxxstring_abi = "cxx03"
@@ -35,7 +35,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "a063e6da349ed9dd8b1ff42e37baa967a726ff4c4064297c002087b7c0d88b39"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.aarch64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.aarch64-linux-musl-cxx03.tar.gz"
 [[protoc]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
@@ -45,7 +45,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "852bce347e879078562eefb723610780cf9ec43b2369f881175f8c018c530481"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.aarch64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.aarch64-linux-musl-cxx11.tar.gz"
 [[protoc]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -56,7 +56,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "b83e795d51076fe4ae4fa56f582f357b143fbfd400b22d60070c4522fb97fb40"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.armv6l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.armv6l-linux-gnueabihf-cxx03.tar.gz"
 [[protoc]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -67,7 +67,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "54446b90ff237c91b09b0566575a429f196d00e30193753f6e87c4e015946bf1"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.armv6l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.armv6l-linux-gnueabihf-cxx11.tar.gz"
 [[protoc]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -78,7 +78,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "ab93a9f001327b9b4caf65d1fd7246dfeb414d2fc695b543e4ef7e5ce34b20e2"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.armv6l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.armv6l-linux-musleabihf-cxx03.tar.gz"
 [[protoc]]
 arch = "armv6l"
 call_abi = "eabihf"
@@ -89,7 +89,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "75fa22cd5acfd2f6320efaca4053ad4b95f7d5fc56a9e071161a852ba8343dca"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.armv6l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.armv6l-linux-musleabihf-cxx11.tar.gz"
 [[protoc]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -100,7 +100,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "7c83b8835b002387561b7f077a2fdfa8338c2c018b5b9cf6c8126191da276d8b"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.armv7l-linux-gnueabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.armv7l-linux-gnueabihf-cxx03.tar.gz"
 [[protoc]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -111,7 +111,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "de9dc0e15351e8d23d75c523fda16c582169549cf9392db0fcadd45325ab8bd6"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.armv7l-linux-gnueabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.armv7l-linux-gnueabihf-cxx11.tar.gz"
 [[protoc]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -122,7 +122,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "106f545d72e39924af69c03bd2a873b415a004fb7d3919695dcc322a4cc50cce"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.armv7l-linux-musleabihf-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.armv7l-linux-musleabihf-cxx03.tar.gz"
 [[protoc]]
 arch = "armv7l"
 call_abi = "eabihf"
@@ -133,7 +133,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "3774ca80f7a5ab4b517cc9d52d64edf37deda4d82daaf4d40ae64694dbdfe3b7"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.armv7l-linux-musleabihf-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.armv7l-linux-musleabihf-cxx11.tar.gz"
 [[protoc]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -143,7 +143,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "403ee4aad815d172ad907649e1f82aa0b3a6d838022a5ae190e26c74211e3748"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.i686-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.i686-linux-gnu-cxx03.tar.gz"
 [[protoc]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -153,7 +153,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "4658cac30d64ab926f810f14da0d97af6ecba9f49e0ee982f1a50a83b9564682"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.i686-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.i686-linux-gnu-cxx11.tar.gz"
 [[protoc]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -163,7 +163,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "c5755fdf6e95f22648fa0453d470517c6431e22f371ea459d5bb56a70d03b6e5"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.i686-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.i686-linux-musl-cxx03.tar.gz"
 [[protoc]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -173,7 +173,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "a9660e0fcea31b3afa0370f5ff8d8b7b92f823bba5034bbff5ee01f311965266"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.i686-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.i686-linux-musl-cxx11.tar.gz"
 [[protoc]]
 arch = "i686"
 cxxstring_abi = "cxx03"
@@ -182,7 +182,7 @@ os = "windows"
 
     [[protoc.download]]
     sha256 = "a2b41e72f16e39a11c3e31c6aad76874fb02fe50b58dda8572df02a600d85e3a"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.i686-w64-mingw32-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.i686-w64-mingw32-cxx03.tar.gz"
 [[protoc]]
 arch = "i686"
 cxxstring_abi = "cxx11"
@@ -191,7 +191,7 @@ os = "windows"
 
     [[protoc.download]]
     sha256 = "6219e2f13ebd2e99c19a557c6cb430e9946b07f4736b98db54309855ee94464e"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.i686-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.i686-w64-mingw32-cxx11.tar.gz"
 [[protoc]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx03"
@@ -201,7 +201,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "ab02dfe2077c2c24dcb74ea68b1af615de8505f4dccfa5abf1e1ba9f418b83b7"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.powerpc64le-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.powerpc64le-linux-gnu-cxx03.tar.gz"
 [[protoc]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
@@ -211,7 +211,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "3d8b2ce78475e3b5311571878257794eb0b5ab7e0e99c06325bd48eed3eb9973"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.powerpc64le-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.powerpc64le-linux-gnu-cxx11.tar.gz"
 [[protoc]]
 arch = "x86_64"
 git-tree-sha1 = "3a381f3f59732da8021eb9501131c5a865dd08f4"
@@ -219,7 +219,7 @@ os = "macos"
 
     [[protoc.download]]
     sha256 = "afa8be9d5e9fb1b2a662fe3ec1fb45285b9b7c54a0e3d217b15b9ba4d8a62ee7"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.x86_64-apple-darwin.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.x86_64-apple-darwin.tar.gz"
 [[protoc]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -229,7 +229,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "1b94ef150323bb1b223bf30b8af05cd56d3c82a6f4c8a21c6c5697dbe3d94c66"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.x86_64-linux-gnu-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.x86_64-linux-gnu-cxx03.tar.gz"
 [[protoc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -239,7 +239,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "73dcc0bfebee8b04ca34879812e853777f747e128967b5984b8946a9e248c88b"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.x86_64-linux-gnu-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.x86_64-linux-gnu-cxx11.tar.gz"
 [[protoc]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -249,7 +249,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "40f79d0a95e537a7265012e69f0a84d01e63cda24e34fe2f037ccf128cf0d332"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.x86_64-linux-musl-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.x86_64-linux-musl-cxx03.tar.gz"
 [[protoc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -259,7 +259,7 @@ os = "linux"
 
     [[protoc.download]]
     sha256 = "f1d639790986a3b704cb6a50a694cc7b78dd4561d13dc3b117466f639b413c6b"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.x86_64-linux-musl-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.x86_64-linux-musl-cxx11.tar.gz"
 [[protoc]]
 arch = "x86_64"
 git-tree-sha1 = "3727231b6f3f76a54fbb4f3cd50f37cf00d2ea90"
@@ -267,7 +267,7 @@ os = "freebsd"
 
     [[protoc.download]]
     sha256 = "3f919f2b8aaa87d0cb1fbd28b209b1f713a3dfdab73f6d46773339414ebe5014"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.x86_64-unknown-freebsd.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.x86_64-unknown-freebsd.tar.gz"
 [[protoc]]
 arch = "x86_64"
 cxxstring_abi = "cxx03"
@@ -276,7 +276,7 @@ os = "windows"
 
     [[protoc.download]]
     sha256 = "0e8d80e510cb213ecf6ac73aad3a33b4ec20810c88315b1562906b533c7262fa"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.x86_64-w64-mingw32-cxx03.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.x86_64-w64-mingw32-cxx03.tar.gz"
 [[protoc]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
@@ -285,4 +285,4 @@ os = "windows"
 
     [[protoc.download]]
     sha256 = "1d5ca77cb0dfa0b98e99ef6c526ff7c02beff0cfc4fb16237b4cb2cffd6153cd"
-    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+0/protoc.v3.21.12.x86_64-w64-mingw32-cxx11.tar.gz"
+    url = "https://github.com/JuliaBinaryWrappers/protoc_jll.jl/releases/download/protoc-v3.21.12+1/protoc.v3.21.12.x86_64-w64-mingw32-cxx11.tar.gz"
