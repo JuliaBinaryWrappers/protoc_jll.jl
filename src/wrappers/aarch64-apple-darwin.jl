@@ -88,9 +88,9 @@ JLLWrappers.@declare_library_product(libabsl_throw_delegate, "@rpath/libabsl_thr
 JLLWrappers.@declare_library_product(libabsl_time, "@rpath/libabsl_time.2401.0.0.dylib")
 JLLWrappers.@declare_library_product(libabsl_time_zone, "@rpath/libabsl_time_zone.2401.0.0.dylib")
 JLLWrappers.@declare_library_product(libabsl_vlog_config_internal, "@rpath/libabsl_vlog_config_internal.2401.0.0.dylib")
-JLLWrappers.@declare_library_product(libprotobuf, "@rpath/libprotobuf.28.2.0.dylib")
-JLLWrappers.@declare_library_product(libprotobuf_lite, "@rpath/libprotobuf-lite.28.2.0.dylib")
-JLLWrappers.@declare_library_product(libprotoc, "@rpath/libprotoc.28.2.0.dylib")
+JLLWrappers.@declare_library_product(libprotobuf, "@rpath/libprotobuf.29.3.0.dylib")
+JLLWrappers.@declare_library_product(libprotobuf_lite, "@rpath/libprotobuf-lite.29.3.0.dylib")
+JLLWrappers.@declare_library_product(libprotoc, "@rpath/libprotoc.29.3.0.dylib")
 JLLWrappers.@declare_library_product(libutf8_range, "@rpath/libutf8_range.dylib")
 JLLWrappers.@declare_library_product(libutf8_validity, "@rpath/libutf8_validity.dylib")
 JLLWrappers.@declare_executable_product(protoc)
@@ -614,19 +614,19 @@ function __init__()
 
     JLLWrappers.@init_library_product(
         libprotobuf,
-        "lib/libprotobuf.28.2.0.dylib",
+        "lib/libprotobuf.29.3.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libprotobuf_lite,
-        "lib/libprotobuf-lite.28.2.0.dylib",
+        "lib/libprotobuf-lite.29.3.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
     JLLWrappers.@init_library_product(
         libprotoc,
-        "lib/libprotoc.28.2.0.dylib",
+        "lib/libprotoc.29.3.0.dylib",
         RTLD_LAZY | RTLD_DEEPBIND,
     )
 
